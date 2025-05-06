@@ -12,10 +12,6 @@
 
 2. 使用cd命令，切换到你想要存放代码的文件夹，如cd D:\development
 
-3. 输入git clone git@gitee.com:grantchenhuarong/2023-autumn-data-processing.git并按下回车
-
-4. 等待下载完成
-
 
  **通过下载ZIP包** 
 
